@@ -1,2 +1,2 @@
 # trustana_assignment
-The PR is a solution for the trustana take home assignment
+This repo is a solution for the trustana take home assignment
