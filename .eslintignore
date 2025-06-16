@@ -1,0 +1,19 @@
+dist
+node_modules
+coverage
+```text
+// .prettierignore
+**/*.js
+**/*.d.ts
+dist
+node_modules
+coverage
+```text
+// .prettierrc
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 120,
+  "tabWidth": 2,
+  "semi": true
+}
